@@ -12,7 +12,25 @@ h1 {
   /* text-align: center; */
 }
 
+h2 {
+
+  font-size: 42px;
+  font-weight: 300 ;
+  color: white;
+  /* text-align: center; */
+}
+
+.guide {
+  font-size: 22px;
+  color: gray;
+}
 .video {
   color: Aquamarine;
   font-size: 16px;
+}
+
+.footer {
+  font-size: 22px;
+  color: gray;
+  text-align: right;
 }
